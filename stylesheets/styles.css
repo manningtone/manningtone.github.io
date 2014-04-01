@@ -106,17 +106,19 @@ header {
 width:270px;
 height:200px;
 background:#000000; 
-border:2px solid #000000; 
 border-radius:5px; 
 moz-border-radius:5px; 
 webkit-border-radius:5px;
 padding:5px;
+box-shadow:0 0 5px 0 #000000;
+moz-box-shadow:0 0 5px 0 #000000;
+webkit-box-shadow:0 0 5px 0 #000000;
 }
 
 .pagepanel1header {
   font-weight:bold;
   color:#ffffff;
-font-size:32px;
+font-size:28px;
 }
 
 
