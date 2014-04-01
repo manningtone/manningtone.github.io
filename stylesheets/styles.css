@@ -101,7 +101,7 @@ header {
   width:270px;
   float:left;
   position:fixed;
-  padding-bottom:10px;
+  
 }
 
 
@@ -225,6 +225,7 @@ section {
 aside {
   float:left;
   width:270px;
+  margin-top:50px;
 }
 
 small {
