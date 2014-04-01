@@ -101,7 +101,7 @@ header {
   position:fixed;
 }
 
-#pagepanel {
+.pagepanel {
 width:270px;
 height:200px;
 background:#000000; 
