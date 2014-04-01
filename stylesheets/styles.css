@@ -1,8 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
   padding:50px;
-  font-family: myriad pro;
+  font-family: myriad pro, arial;
   font-size:14px;
   color:#000000;
   background:transparent url('http://www.jobspeedsheet.com/bg1.jpg') top left no-repeat;
