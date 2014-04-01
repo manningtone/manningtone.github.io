@@ -50,21 +50,6 @@ a small {
   margin:0 auto;
 }
 
-form
-{width:270px; height:200px; background:#000000; 
-border-radius:5px; 
-moz-border-radius:5px; 
-webkit-border-radius:5px;
-padding:5px;
-box-shadow:0 0 5px 0 #000000;
-moz-box-shadow:0 0 5px 0 #000000;
-webkit-box-shadow:0 0 5px 0 #000000;
-color:#ffffff;
-
-}
-label{float:left; width:80px;}
-input{margin-left:100px;}
-
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -113,7 +98,7 @@ img {
 header {
   width:270px;
   float:left;
- 
+  position:fixed;
   
 }
 
@@ -155,7 +140,6 @@ padding:5px;
 box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
-margin-bottom:40px;
 }
 
 .pagepanel2header {
@@ -240,7 +224,7 @@ aside {
   float:left;
   width:270px;
   margin-top:50px;
-
+  position:fixed;
 }
 
 small {
@@ -258,7 +242,7 @@ footer {
   width:270px;
   float:left;
   bottom:50px;
-  
+  position:fixed;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -268,7 +252,7 @@ footer {
     margin:0;
   }
   
-  header, section, footer, aside{
+  header, section, footer {
     float:none;
     position:static;
     width:auto;
