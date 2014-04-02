@@ -16,7 +16,7 @@
 
 .bx-wrapper {
 	position: relative;
-	margin: 0 auto 2px;
+	margin: 0 auto 60px;
 	padding: 0;
 	*zoom: 1;
 }
@@ -33,7 +33,7 @@
 	-moz-box-shadow: 0 0 5px #ccc;
 	-webkit-box-shadow: 0 0 5px #ccc;
 	box-shadow: 0 0 5px #ccc;
-	border: solid #fff 5px;
+	border: solid #fff 1px;
 	left: -5px;
 	background: #fff;
 }
