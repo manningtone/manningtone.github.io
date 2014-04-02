@@ -156,6 +156,12 @@ border-bottom:2px solid #ffffff;
   color:#ffffff;
 }
 
+form{background:#000000; width:270px; height:230px; line-height:24px; border-radius:5px; webkit-border-radius:5px; moz-border-radius:5px; margin-top:15px;  padding:20px; }
+label{width:75px; color:#ffffff; float:left;}
+input{margin-left:20px; width:170px;}
+select{margin-left:20px;}
+input#send{width:60px; height:25px; float:right; }
+
 header ul {
   list-style:none;
   height:40px;
