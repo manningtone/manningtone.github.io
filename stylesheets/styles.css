@@ -185,6 +185,38 @@ border-bottom:2px solid #ffffff;
   color:#ffffff;
 }
 
+.pagepanel4 {
+width:797px;
+height:250px;
+background:#eee; 
+border:2px solid #39c;;
+border-radius:5px; 
+moz-border-radius:5px; 
+webkit-border-radius:5px;
+padding:5px;
+box-shadow:0 0 5px 0 #000000;
+moz-box-shadow:0 0 5px 0 #000000;
+webkit-box-shadow:0 0 5px 0 #000000;
+margin-top:15px;
+}
+
+.pagepanel4header {
+  font-weight:bold;
+  color:#ffffff;
+  background:#39c;
+font-size:25px;
+padding-left:5px;
+border-bottom:2px solid #ffffff;
+}
+
+
+.contactdetails4{
+  font-size:0.9em;
+  padding:5px;
+  color:#000000;
+  background:ffffff;
+}
+
 form{width:240px; height:200px; line-height:35px; padding:5px 5px 5px 12px; }
 label{width:80px; color:#ffffff; float:left;}
 input{margin-left:20px; width:135px;}
