@@ -122,7 +122,7 @@ margin-bottom:15px;
   font-weight:bold;
   color:#ffffff;
 font-size:25px;
-padding:5px 0 0 5px;
+padding-left:5px;
 border-bottom:2px solid #ffffff;
 }
 
@@ -206,8 +206,7 @@ margin-top:15px;
   color:#ffffff;
   background:#39c;
 font-size:22px;
-padding-left:5px;
-padding-bottom:4px;
+padding:5px 0 0 5px;
 }
 
 
