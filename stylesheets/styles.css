@@ -3,7 +3,7 @@ body {
   font-family: helvetica, myriad pro, arial;
   font-size:14px;
   color:#000000;
-  background:transparent url('http://www.jobspeedsheet.com/bg1.jpg') top left no-repeat;
+  background:transparent url('http://www.jobspeedsheet.com/bg1.jpg') top left repeat-y;
 }
 
 
