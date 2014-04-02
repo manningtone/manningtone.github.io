@@ -219,7 +219,7 @@ border-bottom:2px solid #eee;
 }
 
 .imgplaceholder
-{float:right; width:255px; height:160px;}
+{float:right; width:255px; }
 
 form{width:240px; height:200px; line-height:35px; padding:5px 5px 5px 12px; }
 label{width:80px; color:#ffffff; float:left;}
