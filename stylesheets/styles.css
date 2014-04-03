@@ -116,6 +116,7 @@ box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
 margin-bottom:15px;
+float:left;
 }
 
 .pagepanel1header {
@@ -142,6 +143,7 @@ padding:5px;
 box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
+float:left;
 }
 
 .pagepanel2header {
@@ -170,6 +172,7 @@ box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
 margin-top:15px;
+float:left;
 }
 
 .pagepanel3header {
