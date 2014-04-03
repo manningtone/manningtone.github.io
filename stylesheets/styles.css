@@ -100,6 +100,7 @@ img {
 header {
   width:270px;
   float:left;
+  position:fixed;
  
   
 }
@@ -116,6 +117,7 @@ box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
 margin-bottom:15px;
+position:fixed;
 }
 
 .pagepanel1header {
@@ -142,6 +144,7 @@ padding:5px;
 box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
+position:fixed;
 }
 
 .pagepanel2header {
@@ -170,6 +173,7 @@ box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
 margin-top:15px;
+position:fixed;
 }
 
 .pagepanel3header {
@@ -296,6 +300,7 @@ aside {
   float:left;
   width:270px;
   margin-top:50px;
+  position:fixed;
 }
 
 small {
@@ -313,6 +318,7 @@ footer {
   width:270px;
   float:left;
   bottom:2px;
+  position:fixed;
 
 }
 
