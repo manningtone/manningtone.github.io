@@ -331,7 +331,7 @@ footer {
     float:left;
   }
   
-  header, section, footer {
+  header,  footer {
     float:none;
     position:static;
     width:auto;
@@ -346,6 +346,7 @@ footer {
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
+    float:right;
   }
   
   header a small {
