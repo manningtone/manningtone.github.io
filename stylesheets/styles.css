@@ -116,7 +116,8 @@ box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
 margin-bottom:15px;
-float:left;
+position:relative;
+
 }
 
 .pagepanel1header {
@@ -143,7 +144,7 @@ padding:5px;
 box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
-float:left;
+position:relative;
 }
 
 .pagepanel2header {
@@ -172,7 +173,8 @@ box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
 margin-top:15px;
-float:left;
+position:relative;
+
 }
 
 .pagepanel3header {
@@ -299,7 +301,7 @@ aside {
   float:left;
   width:270px;
   margin-top:50px;
-  position:fixed;
+  position:relative;
   
 }
 
