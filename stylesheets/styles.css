@@ -101,6 +101,7 @@ img {
 header {
   width:270px;
   float:left;
+  position:fixed;
   
   
 }
@@ -291,12 +292,14 @@ section {
   width:550px;
   float:right;
   padding-bottom:50px;
+
 }
 
 aside {
   float:left;
   width:270px;
   margin-top:50px;
+  position:fixed;
  
 }
 
@@ -315,6 +318,7 @@ footer {
   width:270px;
   float:left;
   bottom:2px;
+  position:fixed;
   
 }
 
