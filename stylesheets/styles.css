@@ -51,6 +51,11 @@ a small {
   width:860px;
   margin:0 auto;
 }
+.divider{
+column-rule:3px outset #ff00ff;
+-moz-column-rule:3px outset #ff00ff; /* Firefox */
+-webkit-column-rule:3px outset #ff00ff; /* Safari and Chrome */
+}
 
 blockquote {
   border-left:1px solid #e5e5e5;
