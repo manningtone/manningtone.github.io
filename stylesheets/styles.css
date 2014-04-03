@@ -104,7 +104,9 @@ header {
   
 }
 
-.leftmenu{float:left; position:fixed;}
+.leftmenu{float:left; position:fixed; width:150px;
+height:150px;
+overflow:scroll;}
 
 .pagepanel {
 width:270px;
