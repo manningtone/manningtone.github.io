@@ -116,8 +116,6 @@ box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
 margin-bottom:15px;
-
-
 }
 
 .pagepanel1header {
@@ -144,7 +142,6 @@ padding:5px;
 box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
-
 }
 
 .pagepanel2header {
@@ -173,8 +170,6 @@ box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
 margin-top:15px;
-
-
 }
 
 .pagepanel3header {
@@ -301,7 +296,7 @@ aside {
   float:left;
   width:270px;
   margin-top:50px;
-  
+  position:fixed;
 }
 
 small {
@@ -322,16 +317,14 @@ footer {
   position:fixed;
 }
 
-
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
     width:auto;
     margin:0;
-    float:left;
   }
   
-  header,  footer {
+  header, section, footer {
     float:none;
     position:static;
     width:auto;
@@ -346,7 +339,6 @@ footer {
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
-    float:right;
   }
   
   header a small {
@@ -395,4 +387,3 @@ footer {
     color:#444;
   }
 }
-
