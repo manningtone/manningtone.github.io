@@ -291,13 +291,15 @@ section {
   float:right;
   padding-bottom:50px;
   position:fixed;
+  
 }
 
 aside {
   float:left;
   width:270px;
   margin-top:50px;
-  position:absolute;
+  position:fixed;
+  margin-right:50%;
 }
 
 small {
