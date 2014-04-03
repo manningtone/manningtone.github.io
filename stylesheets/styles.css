@@ -291,6 +291,7 @@ section {
   
   float:right;
   padding-bottom:50px;
+  position:absolute;
   
   
   
@@ -330,14 +331,14 @@ footer {
     margin:0;
   }
   
-  header, section, footer {
+  header,  footer {
     float:none;
     position:static;
     width:auto;
   }
   
   
-  
+  section{position:absolute;}
  
   
   header a small {
