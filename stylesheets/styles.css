@@ -51,11 +51,7 @@ a small {
   width:860px;
   margin:0 auto;
 }
-.divider{
-column-rule:30px outset #000000;
--moz-column-rule:30px outset #000000;
--webkit-column-rule:30px outset #000000; 
-}
+
 
 blockquote {
   border-left:1px solid #e5e5e5;
@@ -105,7 +101,7 @@ img {
 header {
   width:270px;
   float:left;
-  position:fixed;
+  
   
 }
 
@@ -301,7 +297,7 @@ aside {
   float:left;
   width:270px;
   margin-top:50px;
-  position:fixed;
+ 
 }
 
 small {
@@ -319,7 +315,7 @@ footer {
   width:270px;
   float:left;
   bottom:2px;
-  position:fixed;
+  
 }
 
 
