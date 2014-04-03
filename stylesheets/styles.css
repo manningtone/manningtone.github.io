@@ -229,7 +229,7 @@ form{width:240px; height:205px; line-height:35px; padding:5px 5px 5px 12px; }
 label{width:85px; color:#ffffff; float:left;}
 input{margin-left:20px; width:125px;}
 select{margin-left:20px;}
-input#send{width:50px; height:25px; float:right; background:#39c; color:#ffffff; font-weight:bold; border-radius:2px; webkit-border-radius:2px; moz-border-radius:2px; }
+input#send{width:50px; height:25px; float:right; background:#39c; color:#ffffff; font-weight:bold; border-radius:2px; webkit-border-radius:2px; moz-border-radius:2px; padding-top:2px; }
 
 header ul {
   list-style:none;
