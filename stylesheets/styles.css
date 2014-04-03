@@ -53,8 +53,8 @@ a small {
 }
 .divider{
 column-rule:8px outset #000000;
--moz-column-rule:8px outset #000000; /* Firefox */
--webkit-column-rule:8px outset #000000; /* Safari and Chrome */
+-moz-column-rule:8px outset #000000;
+-webkit-column-rule:8px outset #000000; 
 }
 
 blockquote {
