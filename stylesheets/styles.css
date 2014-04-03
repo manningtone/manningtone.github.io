@@ -117,6 +117,7 @@ box-shadow:0 0 5px 0 #000000;
 moz-box-shadow:0 0 5px 0 #000000;
 webkit-box-shadow:0 0 5px 0 #000000;
 margin-bottom:15px;
+position:static;
 
 }
 
