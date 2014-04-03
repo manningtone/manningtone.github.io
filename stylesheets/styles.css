@@ -302,6 +302,7 @@ aside {
   width:270px;
   margin-top:50px;
   float:left;
+  position:fixed;
  
  
   
@@ -332,7 +333,7 @@ footer {
     margin:0;
   }
   
-  header, section, footer {
+  header, section, footer, aside {
     float:none;
     position:static;
     width:auto;
