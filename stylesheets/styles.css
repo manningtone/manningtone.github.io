@@ -52,9 +52,9 @@ a small {
   margin:0 auto;
 }
 .divider{
-column-rule:8px outset #000000;
--moz-column-rule:8px outset #000000;
--webkit-column-rule:8px outset #000000; 
+column-rule:30px outset #000000;
+-moz-column-rule:30px outset #000000;
+-webkit-column-rule:30px outset #000000; 
 }
 
 blockquote {
