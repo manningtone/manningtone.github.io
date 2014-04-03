@@ -291,7 +291,7 @@ section {
   
   float:right;
   padding-bottom:50px;
-  position:absolute;
+  
   
   
   
@@ -338,7 +338,6 @@ footer {
   }
   
   
-  section{position:absolute;}
  
   
   header a small {
