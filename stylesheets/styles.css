@@ -324,7 +324,7 @@ footer {
     margin:0;
   }
   
-  header, footer {
+  header, footer, section{
     float:none;
     position:static;
     width:auto;
