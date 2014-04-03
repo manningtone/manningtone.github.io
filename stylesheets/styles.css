@@ -6,10 +6,6 @@ body {
   background:transparent url('https://dl.dropboxusercontent.com/s/ic877g9nld2238p/bg1.jpg') top left no-repeat;
 }
 
-html {
-min-width: 550px;
-position: relative;
-}
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
@@ -294,6 +290,7 @@ section {
   width:550px;
   float:right;
   padding-bottom:50px;
+  overflow:scroll;
   
   
 }
