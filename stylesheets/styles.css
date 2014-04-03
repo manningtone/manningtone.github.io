@@ -290,13 +290,14 @@ section {
   width:550px;
   float:right;
   padding-bottom:50px;
+  position:fixed;
 }
 
 aside {
   float:left;
   width:270px;
   margin-top:50px;
-  position:fixed;
+  
 }
 
 small {
