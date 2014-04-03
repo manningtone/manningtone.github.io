@@ -104,6 +104,7 @@ header {
   
 }
 
+.leftmenu{float:left; position:fixed;}
 
 .pagepanel {
 width:270px;
