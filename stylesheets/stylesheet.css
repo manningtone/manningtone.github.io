@@ -383,7 +383,7 @@ Small Device Styles
 
   .inner {
     min-width: 320px;
-    max-width: 480px;
+    max-width: 1000px;
   }
 
   #project_title {
