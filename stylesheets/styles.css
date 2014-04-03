@@ -104,7 +104,6 @@ header {
   
 }
 
-.leftmenu{float:left; position:absolute; }
 
 .pagepanel {
 width:270px;
@@ -288,15 +287,9 @@ header ul a strong {
 }
 
 section {
-  
+  width:550px;
   float:right;
   padding-bottom:50px;
-  position:fixed;
-  
-  
-  
-  
-  
 }
 
 aside {
@@ -304,7 +297,6 @@ aside {
   width:270px;
   margin-top:50px;
   position:fixed;
- 
 }
 
 small {
@@ -332,14 +324,22 @@ footer {
     margin:0;
   }
   
-  header,  footer {
+  header, section, footer {
     float:none;
     position:static;
     width:auto;
   }
   
+  header {
+    padding-right:320px;
+  }
   
- 
+  section {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:20px 0;
+    margin:0 0 20px;
+  }
   
   header a small {
     display:inline;
