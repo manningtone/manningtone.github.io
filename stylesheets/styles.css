@@ -104,7 +104,7 @@ header {
   
 }
 
-.leftmenu{float:left; position:relative; }
+.leftmenu{float:left; position:absolute; }
 
 .pagepanel {
 width:270px;
