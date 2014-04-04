@@ -191,6 +191,8 @@ border-bottom:2px solid #ffffff;
   color:#ffffff;
 }
 
+/* Section placeholder */
+
 .pagepanel4 {
 width:550px;
 background:#eee; 
@@ -323,6 +325,8 @@ hr {
 footer {
   width:270px;
   float:left;
+  position:absolute;
+  bottom:5px;
   
   
 }
