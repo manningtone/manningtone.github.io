@@ -106,7 +106,7 @@ header {
   
 }
 
-.social{position:absolute; left:1px; top:350px;
+.social{position:absolute; left:1px; top:350px; border:1px solid #000000; padding:2px;
 }
 
 /* Placeholders */
