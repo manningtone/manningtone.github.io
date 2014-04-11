@@ -337,4 +337,10 @@ footer {
   
 }
 
+header, article, footer, section{
+  display:block;
+  }
+
+
+
 
