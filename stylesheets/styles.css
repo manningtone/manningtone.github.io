@@ -109,7 +109,7 @@ header {
 /* Social bookmarks */ 
 
 
-.social{
+#social{
   position:absolute; left:1px; top:350px; border:1px solid #000000; border-radius:3px; moz-border-radius:3px; webkit-border-radius:3px; padding:8px; background:#eee; line-height:5px; 
 }
 
@@ -142,7 +142,7 @@ border-bottom:2px solid #ffffff;
 }
 
 
-.pagepanel2 {
+#pagepanel2 {
 width:270px;
 background:#000000; 
 border-radius:5px; 
@@ -169,7 +169,7 @@ border-bottom:2px solid #ffffff;
   color:#ffffff;
 }
 
-.pagepanel3 {
+#pagepanel3 {
 width:270px;
 background:#000000; 
 border-radius:5px; 
@@ -200,7 +200,7 @@ border-bottom:2px solid #ffffff;
 
 /* Section placeholder */
 
-.pagepanel4 {
+#pagepanel4 {
 width:550px;
 height:255px;
 background:#eee; 
