@@ -200,7 +200,7 @@ border-bottom:2px solid #ffffff;
 
 /* Section placeholder */
 
-#pagepanel4 {
+.pagepanel4 {
 width:550px;
 height:255px;
 background:#eee; 
