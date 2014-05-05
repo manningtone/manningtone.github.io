@@ -1,6 +1,6 @@
 body {
   padding:35px 50px 50px 50px;
-  font-family: oswald, helvetica, myriad pro, arial;
+  font-family: helvetica, myriad pro, arial;
   font-size:14px;
   color:#000000;
   background:transparent url('https://dl.dropboxusercontent.com/s/ic877g9nld2238p/bg1.jpg') top left repeat;
@@ -10,7 +10,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
-  font-family: oswald, helvetica, myriad pro, arial;
+  font-family: oswald;
 }
 
 p, ul, ol, table, pre, dl {
@@ -133,6 +133,7 @@ margin-bottom:15px;
 }
 
 .pagepanel1header {
+  font-family: oswald;
   font-weight:bold;
   color:#ffffff;
 font-size:25px;
@@ -159,6 +160,7 @@ webkit-box-shadow:0 0 5px 0 #000000;
 }
 
 .pagepanel2header {
+  font-family: oswald;
   font-weight:bold;
   color:#ffffff;
 font-size:25px;
@@ -188,6 +190,7 @@ margin-bottom:10px;
 }
 
 .pagepanel3header {
+  font-family: oswald;
   font-weight:bold;
   color:#ffffff;
 font-size:25px;
@@ -221,6 +224,7 @@ margin-top:20px;
 }
 
 .pagepanel4header {
+  font-family: oswald;
   font-weight:bold;
   color:#ffffff;
   background:#39c;
