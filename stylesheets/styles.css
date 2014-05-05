@@ -348,7 +348,7 @@ footer {
 
 /* Pre IE9 block-level elements */
 
-header, article, footer, section, main{
+header, article, footer, section, main, nav{
   display:block;
   }
 
