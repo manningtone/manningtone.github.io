@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'springsteel'; /*a name to be used later*/
+    src: url('https://dl.dropboxusercontent.com/s/9n1v4p13gzm12am/springsteel-lig.otf'); /*URL to font*/
+}
+
 body {
   padding:35px 50px 50px 50px;
   font-family: helvetica, myriad pro, arial;
