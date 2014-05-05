@@ -54,7 +54,7 @@ a small {
 header{width:860px; margin: 0 auto; 
 }
 
-nav{text-align:right; margin:0px; line-height:0.1; font-family: oswald; }
+nav{text-align:right; margin:0px; line-height:0; font-family: oswald; }
 
 
 .wrapper {
