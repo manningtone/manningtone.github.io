@@ -54,7 +54,7 @@ a small {
 header{width:860px; margin: 0 auto;
 }
 
-nav{float:right; line-height:0.9;}
+nav{float:right; line-height:0.9; padding:0px;}
 
 
 .wrapper {
