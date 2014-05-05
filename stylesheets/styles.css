@@ -42,6 +42,14 @@ a {
 a.bold
 {font-weight:bold; font-size:15px; font-family: oswald;}
 
+a.nav, a:active.nav, a:visited.nav
+{font-weight:bold; font-size:18px; font-family: oswald;}
+
+a:hover.nav
+{color:#000000; text-decoration:underline;}
+
+
+
 
 a small {
   font-size:11px;
