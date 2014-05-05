@@ -37,9 +37,11 @@ a {
   color:#39c;
   font-weight:400;
   text-decoration:none;
+   font-family: oswald;
 }
 a.bold
-{font-weight:bold; font-size:15px;}
+{font-weight:bold; font-size:15px; font-family: oswald;}
+
 
 a small {
   font-size:11px;
