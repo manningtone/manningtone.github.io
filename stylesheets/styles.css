@@ -54,6 +54,8 @@ a small {
 header{width:860px; margin: 0 auto;
 }
 
+#topmenu{float:right;}
+
 
 .wrapper {
   width:860px;
