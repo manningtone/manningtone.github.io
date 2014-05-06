@@ -63,6 +63,9 @@ a small {
 header{width:860px; margin: 0 auto; 
 }
 
+header.pagecontent{width:550px; margin:0;
+}
+
 nav{text-align:right; margin:0px;  font-family: oswald; position:relative; bottom:22px;}
 
 
