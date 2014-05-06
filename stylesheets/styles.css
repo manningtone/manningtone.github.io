@@ -120,6 +120,10 @@ img {
   max-width:100%;
 }
 
+img.content {
+  float:right; margin-right:auto; margin-left:auto; display:block;
+}
+
 
 
 /* Social bookmarks */ 
