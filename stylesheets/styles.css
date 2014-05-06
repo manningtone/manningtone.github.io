@@ -8,7 +8,6 @@ body {
 
 
 h2, h3, h4, h5, h6 {
-  color:#222;
   margin:0 0 20px;
   font-family: oswald;
 }
@@ -29,9 +28,13 @@ h2 {
   color:#393939; font-size:25px;
 }
 
-h3, h4, h5, h6 {
-  color:#494949;
+h3 {font-size:20px;}
+
+h3, h5, h6 {
+  color:#222;
 }
+
+h4{color:#39c;}
 
 a {
   color:#39c;
