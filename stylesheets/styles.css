@@ -22,13 +22,13 @@ h1 {
 }
 
 h2 {
-  color:#393939; font-size:25px; line-height:0.5;
+  color:#222; font-size:25px; line-height:0.5;
 }
 
-h3 {font-size:20px;}
+h3 {font-size:20px; color:#222;}
 
-h3, h4, h5, h6 {
-  color:#39c; line-height:0.5; 
+h4, h5, h6 {
+line-height:0.5; 
 }
 
 h4{color:#39c; font-size:18px;}
