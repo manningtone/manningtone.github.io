@@ -6,8 +6,10 @@
 </url>
 <url>
 <loc>http://manningtone.github.io/about-me</loc>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>http://manningtone.github.io/references</loc>
+<priority>0.6</priority>
 </url>
 </urlset>
