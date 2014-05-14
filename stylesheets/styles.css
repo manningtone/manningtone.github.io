@@ -232,9 +232,9 @@ border-radius:5px;
 moz-border-radius:5px; 
 webkit-border-radius:5px;
 
-box-shadow:0 0 5px 0 #000000;
-moz-box-shadow:0 0 5px 0 #000000;
-webkit-box-shadow:0 0 5px 0 #000000;
+box-shadow:5px 5px 5px #000000;
+moz-box-shadow:5px 5px 5px #000000;
+webkit-box-shadow:5px 5px 5px #000000;
 margin-top:20px;
 
 }
