@@ -21,25 +21,6 @@ h1 {
   font-size:72px; line-height:0.9; font-family: oswald; color:#222; margin:0px; 
 }
 
-{
--webkit-animation: myfirst 5s; /* Chrome, Safari, Opera */
-animation: myfirst 5s;
-}
-
-/* Chrome, Safari, Opera */
-@-webkit-keyframes myfirst
-{
-from {background: #222;}
-to {background: #39c;}
-}
-
-/* Standard syntax */
-@keyframes myfirst
-{
-from {background: #222;}
-to {background: #39c;}
-}
-
 h2 {
   color:#222; font-size:25px; line-height:0.5; margin-top:22px;
 }
