@@ -63,25 +63,6 @@ a small {
 header{width:860px; margin: 0 auto; 
 }
 
-.animation
-{
--webkit-animation: myfirst 5s; /* Chrome, Safari, Opera */
-animation: myfirst 5s;
-}
-
-/* Chrome, Safari, Opera */
-@-webkit-keyframes myfirst
-{
-from {background: #222;}
-to {background: #39c;}
-}
-
-/* Standard syntax */
-@keyframes myfirst
-{
-from {background: #222;}
-to {background: #39c;}
-}
 
 header.pagecontent{width:550px; margin:0;
 }
