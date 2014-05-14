@@ -227,14 +227,14 @@ border-bottom:2px solid #39c;
 width:550px;
 height:265px;
 background:#eee; 
-border:2px solid #39c;;
+border:2px solid #39c;
 border-radius:5px; 
 moz-border-radius:5px; 
 webkit-border-radius:5px;
 
-box-shadow:5px 5px 5px #666666;
-moz-box-shadow:5px 5px 5px #666666;
-webkit-box-shadow:5px 5px 5px #666666;
+box-shadow:5px 5px 5px #888888;
+moz-box-shadow:5px 5px 5px #888888;
+webkit-box-shadow:5px 5px 5px #888888;
 margin-top:18px;
 
 }
