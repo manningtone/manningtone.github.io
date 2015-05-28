@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ewan's portfolio - Ewan Mannington > About me</title>
+    
+    
+    <meta name="description" content="Ewan's portfolio About me page with background information about Ewan Mannington">
+    <meta name="keywords" content="Ewan's portfolio, Ewan Mannington, About Ewan Mannington">
+    <meta name="author" content="Ewan Mannington">
+  
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" type="image/x-icon" href="https://dl.dropboxusercontent.com/s/f1twx6c3w4wxeqn/em.png">
+    </head>
+    <body>
+  <header><h1>Ewan's portolio</h1>
+    <nav><a href="/" class="nav">Home</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="about-me" class="navactive">About me</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="references" class="nav">References</a>&nbsp;&nbsp;</nav>
+  </header>
+  
+    <div class="wrapper">
+      
+      <section>
+        <div class="lmenu">
+ <div id="pagepanel">
+          <div class="pagepanel1header">
+            Address
+          </div>
+          <div class="contactdetails">
+            <iframe width="258" height="183" src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=17A+south+villas+london+nw1+9bs&amp;aq=&amp;sll=51.528642,-0.101599&amp;sspn=0.621116,1.674042&amp;ie=UTF8&amp;hq=&amp;hnear=17A+S+Villas,+London+NW1+9BS,+United+Kingdom&amp;t=m&amp;z=14&amp;ll=51.545866,-0.12929&amp;output=embed"></iframe><br /><a href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=17A+south+villas+london+nw1+9bs&amp;aq=&amp;sll=51.528642,-0.101599&amp;sspn=0.621116,1.674042&amp;ie=UTF8&amp;hq=&amp;hnear=17A+S+Villas,+London+NW1+9BS,+United+Kingdom&amp;t=m&amp;z=14&amp;ll=51.545866,-0.12929">View Larger Map</a>
+
+          </div>
+          
+        </div>
+        
+        <div id="pagepanel2">
+          <div class="pagepanel2header">
+            Contact
+          </div>
+          <div class="contactdetails2">
+          T: 07904 091 231<br>
+          E: <a href="mailto:ewanmannington@live.co.uk">EwanMannington@live.co.uk</a><br>
+          Linkedin: <a href="http://uk.linkedin.com/in/ewanmannington/">uk.linkedin.com/in/ewanmannington</a>
+            
+                    
+            </div>
+          
+        </div>
+         <div id="pagepanel3">
+          <div class="pagepanel3header">
+            Contact form
+          </div>
+          
+                  <form method="post" action="http://ewan.hostoi.com/myporfolio.php">
+
+<label>Title  *</label>
+<select>
+<option value="1">Please select</option>
+<option value="2">Mr</option>
+<option value="3">Mrs</option>
+<option value="4">Ms</option>
+</select>
+<label>First name  *</label><input type="text" name="firstname" id="firstname" required>
+<label>Last name  *</label><input type="text" name="lastname" id="lastname" required>
+<label>Telephone</label><input type="tel" name="tel" id="tel">
+<label>Email  *</label><input type="email" name="email" id="email" required>
+<input type="submit" value="Send" id="send">
+
+</form>
+            
+                    
+            
+          
+        </div>
+    
+      </div>
+       </section>
+       <main>
+       
+       <h2>Social media UTMs</h2>
+       <ul>
+       <li><a href="http://www.fmb.org.uk/fab?utm_source=googleplus&utm_medium=socialmedia&utm_campaign=fmbconsumercampaign&utm_socialnetwork=googleplus&utm_content=gp1
+">Google+</a></li>
+       <li><a href="http://www.fmb.org.uk/fab?utm_source=pinterest&utm_medium=socialmedia&utm_campaign=fmbconsumercampaign&utm_socialNetwork=pinterest&utm_content=pi1
+">Pinterest</a></li>
+       <li><a href="http://www.fmb.org.uk/fab?utm_source=youtube&utm_medium=socialmedia&utm_campaign=fmbconsumercampaign&utm_socialNetwork=youtube&utm_content=yt1
+">YouTube</a></li>
+       <li><a href="http://www.fmb.org.uk/fab?utm_source=linkedin&utm_medium=socialmedia&utm_campaign=fmbconsumercampaign&utm_socialNetwork=Linkedin&utm_content=li1
+">LinkedIn</a></li>
+       <li><a href="http://www.fmb.org.uk/fab?utm_source=twitter&utm_medium=socialmedia&utm_campaign=fmbconsumercampaign&utm_socialNetwork=twitter&utm_content=tw1
+">Twitter</a></li>
+       <li><a href="http://www.fmb.org.uk/fab?utm_source=facebook&utm_medium=socialmedia&utm_campaign=fmbconsumercampaign&utm_socialNetwork=facebook&utm_content=fb1
+">Facebook</a></li>
+       
+       
+       </ul>
+       
+       <h2>Banner UTMs</h2>
+       <ul>
+      <li><a href="http://www.fmb.org.uk/fab?utm_source=selfbuild&utm_medium=banner&utm_campaign=fmbconsumercampaign&utm_content=sb1
+">Self Build</a></li>
+      <li><a href="http://www.fmb.org.uk/fab?utm_source=bexley&utm_medium=banner&utm_campaign=fmbconsumercampaign&utm_content=be1
+">Bexley Council</a></li>
+      <li><a href="http://www.fmb.org.uk/fab?utm_source=ourproperty&utm_medium=banner&utm_campaign=fmbconsumercampaign&utm_content=op1
+">Ourproperty</a></li>
+       
+       </ul>
+       
+       
+    
+       
+       
+       </main>
+    
+    
+    </body>
+    </html>
