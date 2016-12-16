@@ -108,7 +108,10 @@ a.logo {
 **********************************/
 .btn {
   border: none;
-  border-radius: 2px; }
+  border-radius: 2px;
+}
+
+.btn:hover{background-color:#810628; color:#fff;}
 
 .btn-default {
   background: #0cedcc;
