@@ -864,19 +864,19 @@ footer.footer-pages {
     }
  @font-face{
       font-family: "GillSans Light";
-      src: url("stylesheets/gill-sans-light.ttf");
+      src: url("http://www.fmb.org.uk/css/fonts/gill-sans-light.ttf");
     }
  @font-face{
       font-family: "GillSansW01-Medium";
-      src: url("stylesheets/gill-sans-w01-medium.ttf");
+      src: url("http://www.fmb.org.uk/css/fonts/gill-sans-w01-medium.ttf");
     }
 
  @font-face{
       font-family: "SwiftW01-Light";
-      src: url("stylesheets/swift-w01-light.ttf");
+      src: url("http://www.fmb.org.uk/css/fonts/swift-w01-light.ttf");
     }
 
  @font-face{
       font-family: "SwiftW01-Regular";
-      src: url("stylesheets/swift-w01-regular.ttf");
+      src: url("http://www.fmb.org.uk/css/fonts/swift-w01-regular.ttf");
     }
