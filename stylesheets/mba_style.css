@@ -43,6 +43,11 @@ p {
   font-size: 14px;
   line-height: 1.6em; }
 
+a {
+  font-size: 14px;
+  line-height: 1.6em;
+font-family: 'GillSansW01-Book', sans-serif;}
+
 .sub-headline {
   color: #666;
   font-size: 16px;
