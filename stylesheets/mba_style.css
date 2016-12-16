@@ -855,3 +855,28 @@ footer.footer-pages {
 @media only screen and (max-width: 320px) {
   .page-404-content p {
     margin-bottom: 40px; } }
+
+
+
+@font-face{
+      font-family: "GillSansW01-Book";
+      src: url("stylesheets/gill-sans-W01-Book.ttf");
+    }
+ @font-face{
+      font-family: "GillSans Light";
+      src: url("stylesheets/gill-sans-light.ttf");
+    }
+ @font-face{
+      font-family: "GillSansW01-Medium";
+      src: url("stylesheets/gill-sans-w01-medium.ttf");
+    }
+
+ @font-face{
+      font-family: "SwiftW01-Light";
+      src: url("stylesheets/swift-w01-light.ttf");
+    }
+
+ @font-face{
+      font-family: "SwiftW01-Regular";
+      src: url("stylesheets/swift-w01-regular.ttf");
+    }
