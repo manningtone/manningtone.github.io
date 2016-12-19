@@ -275,6 +275,9 @@ a.logo {
 /**********************************
  07. Work
 **********************************/
+
+p.intro{display:none;}
+
 #work {
   background: #f4f4f4;
   padding-top: 150px;
@@ -875,3 +878,11 @@ footer.footer-pages {
       font-family: "SwiftW01-Regular";
       src: url("http://www.fmb.org.uk/css/fonts/swift-w01-regular.ttf");
     }
+
+
+
+@media only screen and (max-width: 320px) {
+  p.intro{display:none;} }
+
+
+
