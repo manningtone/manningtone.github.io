@@ -903,7 +903,8 @@ footer.footer-pages {
 
 
 
-
+@media only screen and (min-device-width: 480px) and (max-device-width: 640px) {
+     #intro {height:130vh; } }
 
 
 
