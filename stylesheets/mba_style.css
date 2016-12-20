@@ -881,16 +881,12 @@ footer.footer-pages {
 
 
 @media only screen and (max-width: 320px) {
-  p.intro {display:none; } }
+  img.nomobile {display:none; } }
 
 @media only screen and (max-width: 480px) {
-  p.intro {display:none; } }
+  img.nomobile {display:none; } }
 
-@media only screen and (max-width: 320px) {
-  .right {display:none; } }
 
-@media only screen and (max-width: 480px) {
-  .right {display:none; } }
 
 
 
