@@ -906,6 +906,11 @@ footer.footer-pages {
 @media only screen and (min-device-width: 480px) and (max-device-width: 640px) {
      section#intro {height:130vh; } }
 
+@media only screen and (min-device-width: 480px) and (max-device-width: 640px) {
+     img.nomobile {display:none;} }
+
+
+
 
 
 
