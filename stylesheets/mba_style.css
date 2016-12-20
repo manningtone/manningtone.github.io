@@ -910,7 +910,7 @@ footer.footer-pages {
      img.nomobile {display:none;} }
 
 @media only screen and (min-device-width: 480px) and (max-device-width: 640px) {
-     h1 {font-size:50px; font-weight:bold; text-shadow: #2e2e2e 0 4px 5px;} }
+     h1 {font-size:35px; font-weight:bold; text-shadow: #2e2e2e 0 4px 5px;} }
 
 
 
