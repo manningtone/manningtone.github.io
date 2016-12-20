@@ -887,9 +887,9 @@ footer.footer-pages {
   p.intro {display:none; } }
 
 @media only screen and (max-width: 320px) {
-  h1 {font-size:30px; } }
+  h1 {font-size:30px; font-weight:600;  } }
 @media only screen and (max-width: 480px) {
-  h1 {font-size:30px; } }
+  h1 {font-size:30px; font-weight:600; } }
 
 
 
