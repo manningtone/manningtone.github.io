@@ -888,6 +888,8 @@ footer.footer-pages {
 
 @media only screen and (max-width: 320px) {
   h1 {font-size:30px; } }
+@media only screen and (max-width: 480px) {
+  h1 {font-size:30px; } }
 
 
 
