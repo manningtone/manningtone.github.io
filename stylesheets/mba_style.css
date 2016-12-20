@@ -887,9 +887,9 @@ footer.footer-pages {
   p.intro {display:none; } }
 
 @media only screen and (max-width: 320px) {
-  h1 {font-size:30px; font-weight:600; padding: 2px; background: rgba(0, 0, 0, 0.50); display: inline;  } }
+  h1 {font-size:30px; padding: 1px; background: rgba(0, 0, 0, 0.50); display: inline;  } }
 @media only screen and (max-width: 480px) {
-  h1 {font-size:30px; font-weight:600; padding: 2px; background: rgba(0, 0, 0, 0.50); display: inline;} }
+  h1 {font-size:30px; padding: 1px; background: rgba(0, 0, 0, 0.50); display: inline;} }
 
 
 
