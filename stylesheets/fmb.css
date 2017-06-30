@@ -1,0 +1,52 @@
+ @font-face{
+      font-family: "GillSansW01-Book";
+      src: url("https://www.fmb.org.uk/css/fonts/gill-sans-W01-Book.ttf");
+    }
+ @font-face{
+      font-family: "GillSans Light";
+      src: url("http://www.fmb.org.uk/css/fonts/gill-sans-light.ttf");
+    }
+ @font-face{
+      font-family: "GillSansW01-Medium";
+      src: url("http://www.fmb.org.uk/css/fonts/gill-sans-w01-medium.ttf");
+    }
+
+ @font-face{
+      font-family: "SwiftW01-Light";
+      src: url("http://www.fmb.org.uk/css/fonts/swift-w01-light.ttf");
+    }
+
+ @font-face{
+      font-family: "SwiftW01-Regular";
+      src: url("http://www.fmb.org.uk/css/fonts/swift-w01-regular.ttf");
+    }
+
+
+
+@font-face{
+      font-family: "GillSansW01-Book";
+      src: url("http://www.fmb.org.uk/css/fonts/gill-sans-W01-Book.ttf"),
+          url("http://www.fmb.org.uk/css/fonts/gill-sans-W01-Book.woff");
+    }
+@font-face{
+      font-family: "GillSans Light";
+      src: url("http://www.fmb.org.uk/css/fonts/gill-sans-light.ttf"),
+          url("http://www.fmb.org.uk/css/fonts/gill-sans-light.woff");
+    }
+@font-face{
+      font-family: "GillSansW01-Medium";
+      src: url("http://www.fmb.org.uk/css/fonts/gill-sans-w01-medium.ttf"),
+      url("http://www.fmb.org.uk/css/fonts/gill-sans-w01-medium.woff");
+    }
+
+@font-face{
+      font-family: "SwiftW01-Light";
+      src: url("http://www.fmb.org.uk/css/fonts/swift-w01-light.ttf"),
+          url("http://www.fmb.org.uk/css/fonts/swift-w01-light.woff");
+    }
+
+@font-face{
+      font-family: "SwiftW01-Regular";
+      src: url("http://www.fmb.org.uk/css/fonts/swift-w01-regular.ttf"),
+          url("http://www.fmb.org.uk/css/fonts/swift-w01-regular.woff");
+    }
