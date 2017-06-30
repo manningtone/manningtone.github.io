@@ -1,52 +1,52 @@
  @font-face{
       font-family: "GillSansW01-Book";
-      src: url("stylesheets/Gill-Sans-W01-Book.ttf");
+      src: url("https://www.fmb.org.uk/css/fonts/gill-sans-W01-Book.ttf");
     }
  @font-face{
       font-family: "GillSans Light";
-      src: url("stylesheets/Gill-Sans-Light.ttf");
+      src: url("https://www.fmb.org.uk/css/fonts/gill-sans-light.ttf");
     }
  @font-face{
       font-family: "GillSansW01-Medium";
-      src: url("stylesheets/Gill-Sans-W01-Medium.ttf");
+      src: url("https://www.fmb.org.uk/css/fonts/gill-sans-w01-medium.ttf");
     }
 
  @font-face{
       font-family: "SwiftW01-Light";
-      src: url("stylesheets/Swift-W01-Light.ttf");
+      src: url("https://www.fmb.org.uk/css/fonts/swift-w01-light.ttf");
     }
 
  @font-face{
       font-family: "SwiftW01-Regular";
-      src: url("stylesheets/Swift-W01-Regular.ttf");
+      src: url("https://www.fmb.org.uk/css/fonts/swift-w01-regular.ttf");
     }
 
 
 
 @font-face{
       font-family: "GillSansW01-Book";
-      src: url("stylesheets/Gill-Sans-W01-Book.ttf"),
-          url("stylesheets/Gill-Sans-W01-Book.woff");
+      src: url("https://www.fmb.org.uk/css/fonts/gill-sans-W01-Book.ttf"),
+          url("https://www.fmb.org.uk/css/fonts/gill-sans-W01-Book.woff");
     }
 @font-face{
       font-family: "GillSans Light";
-      src: url("stylesheets/Gill-Sans-Light.ttf"),
-          url("stylesheets/Gill-Sans-Light.woff");
+      src: url("https://www.fmb.org.uk/css/fonts/gill-sans-light.ttf"),
+          url("https://www.fmb.org.uk/css/fonts/gill-sans-light.woff");
     }
 @font-face{
       font-family: "GillSansW01-Medium";
-      src: url("stylesheets/Gill-Sans-W01-Medium.ttf"),
-      url("stylesheets/Gill-Sans-W01-Medium.woff");
+      src: url("https://www.fmb.org.uk/css/fonts/gill-sans-w01-medium.ttf"),
+      url("https://www.fmb.org.uk/css/fonts/gill-sans-w01-medium.woff");
     }
 
 @font-face{
       font-family: "SwiftW01-Light";
-      src: url("stylesheets/Swift-W01-Light.ttf"),
-          url("stylesheets/Swift-W01-Light.woff");
+      src: url("https://www.fmb.org.uk/css/fonts/swift-w01-light.ttf"),
+          url("https://www.fmb.org.uk/css/fonts/swift-w01-light.woff");
     }
 
 @font-face{
       font-family: "SwiftW01-Regular";
-      src: url("stylesheets/Swift-W01-Regular.ttf"),
-          url("stylesheets/Swift-W01-Regular.woff");
+      src: url("https://www.fmb.org.uk/css/fonts/swift-w01-regular.ttf"),
+          url("https://www.fmb.org.uk/css/fonts/swift-w01-regular.woff");
     }
