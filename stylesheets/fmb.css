@@ -25,28 +25,28 @@
 
 @font-face{
       font-family: "GillSansW01-Book";
-      src: url("stylesheets/gill-sans-W01-Book.ttf"),
-          url("stylesheets/gill-sans-W01-Book.woff");
+      src: url("stylesheets/Gill-Sans-W01-Book.ttf"),
+          url("stylesheets/Gill-Sans-W01-Book.woff");
     }
 @font-face{
       font-family: "GillSans Light";
-      src: url("stylesheets/gill-sans-light.ttf"),
-          url("stylesheets/gill-sans-light.woff");
+      src: url("stylesheets/Gill-Sans-Light.ttf"),
+          url("stylesheets/Gill-Sans-Light.woff");
     }
 @font-face{
       font-family: "GillSansW01-Medium";
-      src: url("stylesheets/gill-sans-w01-medium.ttf"),
-      url("stylesheets/gill-sans-w01-medium.woff");
+      src: url("stylesheets/Gill-Sans-W01-Medium.ttf"),
+      url("stylesheets/Gill-Sans-W01-Medium.woff");
     }
 
 @font-face{
       font-family: "SwiftW01-Light";
-      src: url("stylesheets/swift-w01-light.ttf"),
-          url("stylesheets/swift-w01-light.woff");
+      src: url("stylesheets/Swift-W01-Light.ttf"),
+          url("stylesheets/Swift-W01-Light.woff");
     }
 
 @font-face{
       font-family: "SwiftW01-Regular";
-      src: url("stylesheets/swift-w01-regular.ttf"),
-          url("stylesheets/swift-w01-regular.woff");
+      src: url("stylesheets/Swift-W01-Regular.ttf"),
+          url("stylesheets/Swift-W01-Regular.woff");
     }
