@@ -71,8 +71,8 @@ margin-bottom:15px;
     
     form{line-height:35px; padding:5px 5px 5px 12px; }
 label{width:85px; color:#fff; float:left;}
-input{margin-left:20px; width:120px;}
-select{margin-left:20px;}
+input{margin-left:20px; min-width:100%;}
+select{margin-left:20px; min-width:100%;}
 input#send{width:50px; height:25px; background:#b20837; color:#ffffff; font-weight:bold; border-radius:2px; webkit-border-radius:2px; moz-border-radius:2px; margin-top:4px; }
       
     </style>
@@ -196,7 +196,7 @@ input#send{width:50px; height:25px; background:#b20837; color:#ffffff; font-weig
     <div class="col-xs-12 col-sm-7 col-md-7">
        <div class="formpanel">
          
-  <form method="post" action="http://ewan.hostoi.com/myporfolio.php">
+  <form method="post">
 
 <p><label>Title  *</label>
 <select>
@@ -207,7 +207,6 @@ input#send{width:50px; height:25px; background:#b20837; color:#ffffff; font-weig
   </select></p>
     <p><label>First name  *</label><input type="text" name="firstname" id="firstname" required></p>
     <p><label>Last name  *</label><input type="text" name="lastname" id="lastname" required></p>
-    <p><label>Telephone</label><input type="tel" name="tel" id="tel"></p>
     <p><label>Email  *</label><input type="email" name="email" id="email" required></p>
     <p><input type="submit" value="Send" id="send"></p>
 
