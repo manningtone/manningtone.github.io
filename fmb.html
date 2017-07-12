@@ -54,7 +54,35 @@ body{font-family:GillSansW01-Book;}
     @media (max-width: 576px) {.responsive-header-container{padding-top:10px; background-color:#b20837; min-width:100%; overflow:hidden; height:300px; border-bottom:5px solid #3f3e3e;  }}
      @media (max-width: 576px) {.responsive-header{background-color:#b20837; background-image: url('https://www.fmb.org.uk/img/logos/fmb-logo.png'); height:266px; width:221px; margin-left:auto; margin-right:auto; display:block; }}
    
+    .formpanel {
+width:270px;
+background:#eee; 
+border-radius:5px; 
+moz-border-radius:5px; 
+webkit-border-radius:5px;
+padding:5px;
+box-shadow:0 0 5px 0 #000000;
+moz-box-shadow:0 0 5px 0 #000000;
+webkit-box-shadow:0 0 5px 0 #000000;
+margin-top:18px;
+margin-bottom:15px;
+}
+
+.formpanelheader {
+  font-family: oswald;
+  font-weight:bold;
+  color:#39c;
+font-size:25px;
+padding-left:5px;
+border-bottom:2px solid #39c;
+}
     
+    
+    form{width:240px; height:205px; line-height:35px; padding:5px 5px 5px 12px; background-color:#b23087;}
+label{width:85px; color:#000000; float:left;}
+input{margin-left:20px; width:120px;}
+select{margin-left:20px;}
+input#send{width:50px; height:25px; float:right; background:#39c; color:#ffffff; font-weight:bold; border-radius:2px; webkit-border-radius:2px; moz-border-radius:2px; margin-top:4px; }
       
     </style>
 
@@ -175,14 +203,27 @@ body{font-family:GillSansW01-Book;}
       </div>
       <div class="row">
     <div class="col-xs-12 col-sm-7 col-md-7">
-  <form style="background-color:#b20837; padding:30px; border-radius:5px; color:#fff;">
-    <p><label>First name:</label><input type="text"></p>
-    <p><label>Last name:</label><input type="text"></p>
-    <p><label>Email:</label><input type="text"></p>
-    
-    
-      </form>
+       <div id="formpanel">
+          <div class="formpanelheader">
+            Contact form
+          </div>
+  <form method="post" action="http://ewan.hostoi.com/myporfolio.php">
 
+<label>Title  *</label>
+<select>
+<option value="1">Please select</option>
+<option value="2">Mr</option>
+<option value="3">Mrs</option>
+<option value="4">Ms</option>
+</select>
+<label>First name  *</label><input type="text" name="firstname" id="firstname" required>
+<label>Last name  *</label><input type="text" name="lastname" id="lastname" required>
+<label>Telephone</label><input type="tel" name="tel" id="tel">
+<label>Email  *</label><input type="email" name="email" id="email" required>
+<input type="submit" value="Send" id="send">
+
+</form>
+      </div>
     </div>
        <div class="col-xs-12 col-sm-5 col-md-5">
          <img src="images/istock_000056466598_medium.jpg" style="margin-left:auto; margin-right:auto; display:block; padding-top:10px;" class="img-responsive">
