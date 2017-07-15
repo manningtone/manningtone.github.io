@@ -28,14 +28,14 @@ input#send{width:100px; height:40px; background:#b20837; color:#ffffff; font-wei
     
      @font-face {
       font-family: GillSansW01-Book;
-      src: url(Gill-Sans-W01-Book.ttf);
-       src: url(Gill-Sans-W01-Book.woff);
+      src: url(/Gill-Sans-W01-Book.ttf);
+       src: url(/Gill-Sans-W01-Book.woff);
     }
     
       @font-face {
       font-family: GillSans Light;
-      src: url(Gill-Sans-Light.ttf);
-    src: url(Gill-Sans-Light.woff);
+      src: url(/Gill-Sans-Light.ttf);
+    src: url(/Gill-Sans-Light.woff);
     }
     
  
