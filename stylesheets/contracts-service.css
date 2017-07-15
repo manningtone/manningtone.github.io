@@ -1,0 +1,62 @@
+
+body{font-family:GillSansW01-Book;}
+    
+    a{color:#b20837;}
+
+.formpanel {
+min-width:100%;
+background-color:#3F3E3E;
+border:5px solid #810628;
+border-radius:10px; 
+moz-border-radius:10px; 
+webkit-border-radius:10px;
+padding:5px;
+margin-bottom:15px;
+}
+
+    .formpanel p.intro
+    {color:#fff; font-size:18px;font-weight: bold;
+    margin-left: 10px;
+    margin-top: 10px;}
+    
+    
+    form{line-height:35px; padding:25px 5px 15px 12px; font-size:16px;}
+label{margin-left:10px; width:85px; color:#fff; float:left;}
+input{margin-left:20px; width:200px;  height:25px;}
+select{margin-left:20px; width:200px; height:25px;}
+input#send{width:100px; height:40px; background:#b20837; color:#ffffff; font-weight:bold; border-radius:2px; webkit-border-radius:2px; moz-border-radius:2px; margin-top:15px; text-transform:uppercase; }
+    
+     @font-face {
+      font-family: GillSansW01-Book;
+      src: url(stylesheets/Gill-Sans-W01-Book.ttf);
+       src: url(stylesheets/Gill-Sans-W01-Book.woff);
+    }
+    
+      @font-face {
+      font-family: GillSans Light;
+      src: url(stylesheets/Gill-Sans-Light.ttf);
+    src: url(stylesheets/Gill-Sans-Light.woff);
+    }
+    
+ 
+    
+    @media (max-width: 576px) {.heading-responsive{display:none;}}
+    @media (max-width: 768px) {.heading-responsive{display:none;}}
+      @media (max-width: 992px) {.heading-responsive{display:none;}}
+    
+    @media (max-width: 576px) {.responsive-quote{display:none;}}
+   
+    
+   
+    @media (max-width: 576px) {.responsive-center{text-align:center;}}
+    @media (max-width: 768px) {.responsive-center{text-align:center;}}
+    @media (max-width: 992px) {.responsive-center{text-align:center;}}
+     @media (min-width: 992px) {p.desktop-right{float:right;}}
+    
+    @media (max-width: 576px) {.background-wrapper{display:none;}}
+    @media (max-width: 576px) {.responsive-header-container{padding-top:10px; background-color:#b20837; min-width:100%; overflow:hidden; height:300px; border-bottom:5px solid #3f3e3e;  }}
+     @media (max-width: 576px) {.responsive-header{background-color:#b20837; background-image: url('https://www.fmb.org.uk/img/logos/fmb-logo.png'); height:266px; width:221px; margin-left:auto; margin-right:auto; display:block; }}
+   
+    
+      
+ 
