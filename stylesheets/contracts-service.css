@@ -43,7 +43,7 @@ input#send{width:100px; height:40px; background:#b20837; color:#ffffff; font-wei
     
     @media (max-width: 576px) {.background-wrapper{display:none;}}
     @media (max-width: 576px) {.responsive-header-container{padding-top:10px; background-color:#b20837; min-width:100%; overflow:hidden; height:300px; border-bottom:5px solid #3f3e3e;  }}
-     @media (max-width: 576px) {.responsive-header{background-color:#b20837; background-image: url('https://www.fmb.org.uk/img/logos/fmb-logo.png'); height:150px; width:100px; margin-left:auto; margin-right:auto; display:block; background-repeat:no-repeat; }}
+     @media (max-width: 576px) {.responsive-header{background-color:#b20837; background-image: url('https://www.fmb.org.uk/img/logos/fmb-logo.png'); height:150px; width:100px; margin-left:auto; margin-right:auto; display:block; background-repeat:no-repeat; margin-top:50px; }}
   
     
       
