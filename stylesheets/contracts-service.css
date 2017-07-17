@@ -21,6 +21,7 @@ a.ui-button.icon-next {
     background-position: 100% center;
     background-clip: padding-box;
     background-color:#b20837;
+    margin-bottom:10px;
 }
 
 a.ui-button {
