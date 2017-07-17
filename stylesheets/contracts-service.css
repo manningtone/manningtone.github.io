@@ -7,6 +7,10 @@ p.content{font-size:18px;}
 
 h2{color:#b20837; text-transform:uppercase;}
 
+ul,li {font-size:18px;}
+
+li a {color:#b20837;}
+
 h2.placeholder{margin-top:0px; padding-top:10px; padding-left:15px; padding-right:15px; margin-bottom:0px; font-size:20px; color:#fff;}
 
 .formpanel {
