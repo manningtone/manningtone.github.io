@@ -3,6 +3,8 @@ body{font-family:GillSansW01-Book;}
     
     a{color:#b20837;}
 
+p.content{font-size:18px;}
+
 .formpanel {
 min-width:100%;
 background-color:#3F3E3E;
