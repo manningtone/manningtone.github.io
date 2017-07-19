@@ -11,6 +11,18 @@ ul.download,li.download {font-size:18px;}
 
 li.download a {color:#b20837;}
 
+.pod-aside-tout {
+    padding: 20px;
+    padding: 2rem;
+    -moz-border-radius-bottomright: 15px;
+    -webkit-border-bottom-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 16px;
+    margin-bottom: 1.6rem;
+    background-color: #b20837;
+    border-top: 6px solid #810628;
+    /* min-height: 300px; */}
+
 h2.placeholder{margin-top:0px; padding-top:10px; padding-left:15px; padding-right:15px; margin-bottom:0px; font-size:20px; color:#fff;}
 
 .formpanel {
