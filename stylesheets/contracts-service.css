@@ -40,7 +40,7 @@ li.download a {color:#b20837;}
     font-size:16px;
     /* min-height: 300px; */}
 
-h2.aside{margin-top:0px; font-size:20px; color:#fff;}
+h2.aside{margin-top:0px; padding-top:2px; font-size:20px; color:#fff;}
 
 
 h2.placeholder{margin-top:0px; padding-top:10px; padding-left:15px; padding-right:15px; margin-bottom:0px; font-size:20px; color:#fff;}
