@@ -32,8 +32,7 @@ li.download a {color:#b20837;}
     -moz-border-radius-bottomright: 15px;
     -webkit-border-bottom-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    margin-bottom: 18px;
-    margin-bottom: 1.6rem;
+    margin-bottom: 30px;
     background-color: #3F3E3E;
     border-top: 6px solid #b20837;
     color:#fff;
