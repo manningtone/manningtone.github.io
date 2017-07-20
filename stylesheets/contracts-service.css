@@ -11,7 +11,8 @@ h1.hero-header{
     font-weight:bold;
     letter-spacing:1px; 
     text-transform:uppercase; 
-    text-shadow: 1px 1px #000; 
+    text-shadow: 1px 1px #000;
+    font-family:Museo-Sans;
     }
 
 h2{color:#b20837; text-transform:uppercase;}
