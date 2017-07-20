@@ -5,6 +5,15 @@ body{font-family:GillSansW01-Book;}
 
 p.content{font-size:18px;}
 
+h1.hero-header{
+    font-size:72px; 
+    color:#fff; 
+    font-weight:bold;
+    letter-spacing:1px; 
+    text-transform:uppercase; 
+    text-shadow: 1px 1px #000; 
+    font-family:Museo Sans 500;}
+
 h2{color:#b20837; text-transform:uppercase;}
 
 ul.download,li.download {font-size:18px;}
