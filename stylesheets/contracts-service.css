@@ -78,7 +78,7 @@ a.ui-button.icon-next {
 }
 
 a.ui-button {
-    font-family: 'GillSans Light';
+    font-family: Museo-Sans;
     font-weight: normal;
     -webkit-transition: background-color 0.3s ease-in-out;
     -moz-transition: background-color 0.3s ease-in-out;
