@@ -17,12 +17,7 @@
 <meta name="description" content="The Federation of Master Builders (FMB) Contracts Service offers consumers free downloads of the Building contract for domestic work.">
   <meta name="robots" content="noindex, nofollow">
   
- 
-$form_url = 'http://manningtone.github.io/download-contract';
-if (!($_SERVER['HTTP_REFERER']==$form_url)) {
-    header("Location: $form_url");
-    exit;
-}
+
  
  
   <style>
@@ -38,8 +33,17 @@ if (!($_SERVER['HTTP_REFERER']==$form_url)) {
 
 </head>
 <body>
+ <script>
+$form_url = 'http://manningtone.github.io/download-contract';
+if (!($_SERVER['HTTP_REFERER']==$form_url)) {
+    header("Location: $form_url");
+    exit;
+}
+ </script>
 <header>
 
+ 
+ 
 <div class="container-fluid" style="margin:0px; padding:0px; min-width:100%; overflow:hidden;">
   
   <div class="responsive-header-container"><a href="/fmb"><div class="responsive-header"></div></a></div>
