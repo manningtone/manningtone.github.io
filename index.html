@@ -40,10 +40,12 @@
     }
     
     
- @media (max-width: 576px) {#nav-images{margin-bottom:30px;}}
-    @media (max-width: 768px) {#nav-images{margin-bottom:30px;}}
-      
-    
+ @media (max-width: 576px) {#nav-images{margin-bottom:20px;}}
+    @media (max-width: 768px) {#nav-images{margin-bottom:20px;}}
+     @media (max-width: 576px) {.nav navbar-nav navbar-right{display:none;}}
+    @media (max-width: 768px) {.nav navbar-nav navbar-right{display:none;}}
+    @media (max-width: 576px) {.share{position:absolute; bottom:0px; left:0px;}}
+    @media (max-width: 768px) {.share{display:none; bottom:0px; left:0px;}}
  
   </style>
 </head>
@@ -75,8 +77,8 @@
     </div>
   </div>
   
-<div style="position:relative;">
-    <div style="position:fixed; left:0px; top:100px;">   <!--<img src="/images/social-share.png" style="position:fixed; left:0px; top:100px;">-->
+<div style="position:relative;" >
+    <div style="position:fixed; left:0px; top:100px;" class="share">   <!--<img src="/images/social-share.png" style="position:fixed; left:0px; top:100px;">-->
       <a href="mailto:?subject=See Ewan Mannington's portfolio&amp;body=https://manningtone.github.io"><img src="/images/email-share.png"></a><br/>
       <a href="http://twitter.com/share?url=https://manningtone.github.io/&amp;text=See Ewan Mannington's porfolio"><img src="/images/tweet-share.png"></a><br/>
       <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://manningtone.github.io&title=Ewan%20Mannington's%20Portfolio&summary=Ewan%20Mannington's%20portfolio%20program&source=LinkedIn"><img src="/images/linkedin-share.png"></a>
@@ -116,19 +118,19 @@
 
 <div class="container bg-3 text-center" style="background-color:#f7f9fb;">    
   <div class="row">
-    <div class="col-xs-6 col-sm-3">
+    <div class="col-xs-6 col-sm-3" id="nav-images">
      <!--<p>Some text..</p>-->
       <a href="#skills"><img src="/images/seo.png" class="img-responsive" style="width:100%" alt="Search Engine Optimisation"></a>
     </div>
-    <div class="col-xs-6 col-sm-3"> 
+    <div class="col-xs-6 col-sm-3" id="nav-images"> 
       <!--<p>Some text..</p>-->
       <a href="#skills"><img src="/images/google-analytics.png" class="img-responsive" style="width:100%" alt="Google analytics"></a>
     </div>
-    <div class="col-xs-6 col-sm-3"> 
+    <div class="col-xs-6 col-sm-3" id="nav-images"> 
       <!--<p>Some text..</p>-->
       <a href="#skills"><img src="/images/front-end-development.png" class="img-responsive" style="width:100%" alt="Front end web development"></a>
     </div>
-    <div class="col-xs-6 col-sm-3">
+    <div class="col-xs-6 col-sm-3" id="nav-images">
       <!--<p>Some text..</p>-->
       <a href="#skills"><img src="/images/email-marketing.png" class="img-responsive" style="width:100%" alt="Email marketing" ></a>
     </div>
