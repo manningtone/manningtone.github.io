@@ -1,0 +1,225 @@
+
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"/>
+</head>
+<body>
+	<!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#2b3138" style="background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="#" onclick="document.getElementsByClassName('helpButtonEnabled')[0].click()" style="16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">Click Here</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center>
+
+<!-- code for sticky button
+<div class="icon-bar">
+  <center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#2b3138" style="background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="100%">
+           
+               <a href="#" onclick="document.getElementsByClassName('helpButtonEnabled')[0].click()" style="16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">Click Here</span>
+             </a>
+           
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center> 
+</div>
+-->
+
+<div class="loremipsumcontainer">
+TEST
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu arcu id leo ornare congue eu vitae sem. Suspendisse tincidunt viverra justo, at auctor nulla semper facilisis. Vestibulum ultrices, mi eget maximus porta, tellus dolor venenatis ex, egestas maximus libero urna vel quam. Proin vel libero sed lorem condimentum vestibulum. Ut finibus lobortis porttitor. Aenean dictum urna vitae velit porta, nec viverra nulla commodo. Morbi eget est a dolor consequat gravida. Aliquam pulvinar orci et nisl auctor, at feugiat lorem mollis. Etiam pharetra nec dui ut hendrerit. Praesent sagittis eu mi nec scelerisque. Aliquam tristique neque odio, non vehicula enim suscipit et.
+<br/><br/>
+Quisque enim nunc, aliquet sed tellus ac, posuere feugiat neque. Nullam at leo eu lectus semper convallis. Vivamus et porta nibh. Morbi eu tincidunt quam. Donec nec commodo lacus. Nunc sed congue enim. Fusce eget justo massa. Mauris commodo, ante a elementum rhoncus, lacus ipsum luctus magna, vel auctor tortor lacus quis nunc. Donec luctus blandit diam et dignissim. Sed lacus nulla, finibus in vulputate sit amet, fringilla id metus. Vivamus dignissim rhoncus purus dictum malesuada. In sed metus non orci tincidunt imperdiet in hendrerit orci. Etiam imperdiet lacus a diam ullamcorper, at facilisis lectus maximus. Integer tristique quis nibh non iaculis.
+<br/><br/>
+Suspendisse mollis augue eu lacus ornare, nec congue lorem dapibus. Aenean nec nisl neque. Ut ornare viverra varius. Nam non vulputate dolor. Nam rutrum tortor ex, non finibus quam lacinia quis. Integer sit amet metus fermentum, porta velit sit amet, interdum ante. Nullam fermentum mi vitae felis volutpat, et congue est egestas. Ut cursus risus hendrerit mattis luctus. Nunc tellus dolor, suscipit eget finibus vitae, posuere elementum massa.
+<br/><br/>
+Sed id elit ut nisi euismod tempor. Donec laoreet dui mi. Vivamus ornare ornare mi, at rutrum dolor hendrerit sed. Phasellus euismod dapibus magna ut porttitor. Morbi bibendum metus justo. In quis tortor nec erat faucibus fermentum. Etiam faucibus mollis nulla eget luctus. Suspendisse varius porttitor nisl sit amet feugiat. Vivamus eget commodo sapien, ac fermentum metus. Donec vel scelerisque lacus. Aliquam erat volutpat. Integer tincidunt, arcu ut sagittis posuere, nulla nisl dictum nibh, at malesuada nisl ante a odio. Praesent lacinia, tellus a laoreet scelerisque, ipsum lectus egestas nulla, tincidunt auctor ligula ante at leo. Fusce metus nisi, egestas quis enim in, congue sagittis nulla.
+<br/><br/>
+Suspendisse nec velit in ligula feugiat viverra ac quis arcu. Nullam et lorem nisl. Sed neque sem, dictum a sagittis sed, blandit nec neque. Nunc dictum fermentum eros quis aliquam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas gravida rhoncus risus non faucibus. Donec nec orci ut sapien blandit fermentum vitae ut metus. Vivamus at elit nec nulla fermentum dapibus posuere ut diam. Nulla facilisi.
+<br/><br/>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu arcu id leo ornare congue eu vitae sem. Suspendisse tincidunt viverra justo, at auctor nulla semper facilisis. Vestibulum ultrices, mi eget maximus porta, tellus dolor venenatis ex, egestas maximus libero urna vel quam. Proin vel libero sed lorem condimentum vestibulum. Ut finibus lobortis porttitor. Aenean dictum urna vitae velit porta, nec viverra nulla commodo. Morbi eget est a dolor consequat gravida. Aliquam pulvinar orci et nisl auctor, at feugiat lorem mollis. Etiam pharetra nec dui ut hendrerit. Praesent sagittis eu mi nec scelerisque. Aliquam tristique neque odio, non vehicula enim suscipit et.
+<br/><br/>
+Quisque enim nunc, aliquet sed tellus ac, posuere feugiat neque. Nullam at leo eu lectus semper convallis. Vivamus et porta nibh. Morbi eu tincidunt quam. Donec nec commodo lacus. Nunc sed congue enim. Fusce eget justo massa. Mauris commodo, ante a elementum rhoncus, lacus ipsum luctus magna, vel auctor tortor lacus quis nunc. Donec luctus blandit diam et dignissim. Sed lacus nulla, finibus in vulputate sit amet, fringilla id metus. Vivamus dignissim rhoncus purus dictum malesuada. In sed metus non orci tincidunt imperdiet in hendrerit orci. Etiam imperdiet lacus a diam ullamcorper, at facilisis lectus maximus. Integer tristique quis nibh non iaculis.
+<br/><br/>
+Suspendisse mollis augue eu lacus ornare, nec congue lorem dapibus. Aenean nec nisl neque. Ut ornare viverra varius. Nam non vulputate dolor. Nam rutrum tortor ex, non finibus quam lacinia quis. Integer sit amet metus fermentum, porta velit sit amet, interdum ante. Nullam fermentum mi vitae felis volutpat, et congue est egestas. Ut cursus risus hendrerit mattis luctus. Nunc tellus dolor, suscipit eget finibus vitae, posuere elementum massa.
+<br/><br/>
+Sed id elit ut nisi euismod tempor. Donec laoreet dui mi. Vivamus ornare ornare mi, at rutrum dolor hendrerit sed. Phasellus euismod dapibus magna ut porttitor. Morbi bibendum metus justo. In quis tortor nec erat faucibus fermentum. Etiam faucibus mollis nulla eget luctus. Suspendisse varius porttitor nisl sit amet feugiat. Vivamus eget commodo sapien, ac fermentum metus. Donec vel scelerisque lacus. Aliquam erat volutpat. Integer tincidunt, arcu ut sagittis posuere, nulla nisl dictum nibh, at malesuada nisl ante a odio. Praesent lacinia, tellus a laoreet scelerisque, ipsum lectus egestas nulla, tincidunt auctor ligula ante at leo. Fusce metus nisi, egestas quis enim in, congue sagittis nulla.
+<br/><br/>
+Suspendisse nec velit in ligula feugiat viverra ac quis arcu. Nullam et lorem nisl. Sed neque sem, dictum a sagittis sed, blandit nec neque. Nunc dictum fermentum eros quis aliquam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas gravida rhoncus risus non faucibus. Donec nec orci ut sapien blandit fermentum vitae ut metus. Vivamus at elit nec nulla fermentum dapibus posuere ut diam. Nulla facilisi.
+<br/><br/>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu arcu id leo ornare congue eu vitae sem. Suspendisse tincidunt viverra justo, at auctor nulla semper facilisis. Vestibulum ultrices, mi eget maximus porta, tellus dolor venenatis ex, egestas maximus libero urna vel quam. Proin vel libero sed lorem condimentum vestibulum. Ut finibus lobortis porttitor. Aenean dictum urna vitae velit porta, nec viverra nulla commodo. Morbi eget est a dolor consequat gravida. Aliquam pulvinar orci et nisl auctor, at feugiat lorem mollis. Etiam pharetra nec dui ut hendrerit. Praesent sagittis eu mi nec scelerisque. Aliquam tristique neque odio, non vehicula enim suscipit et.
+<br/><br/>
+Quisque enim nunc, aliquet sed tellus ac, posuere feugiat neque. Nullam at leo eu lectus semper convallis. Vivamus et porta nibh. Morbi eu tincidunt quam. Donec nec commodo lacus. Nunc sed congue enim. Fusce eget justo massa. Mauris commodo, ante a elementum rhoncus, lacus ipsum luctus magna, vel auctor tortor lacus quis nunc. Donec luctus blandit diam et dignissim. Sed lacus nulla, finibus in vulputate sit amet, fringilla id metus. Vivamus dignissim rhoncus purus dictum malesuada. In sed metus non orci tincidunt imperdiet in hendrerit orci. Etiam imperdiet lacus a diam ullamcorper, at facilisis lectus maximus. Integer tristique quis nibh non iaculis.
+<br/><br/>
+Suspendisse mollis augue eu lacus ornare, nec congue lorem dapibus. Aenean nec nisl neque. Ut ornare viverra varius. Nam non vulputate dolor. Nam rutrum tortor ex, non finibus quam lacinia quis. Integer sit amet metus fermentum, porta velit sit amet, interdum ante. Nullam fermentum mi vitae felis volutpat, et congue est egestas. Ut cursus risus hendrerit mattis luctus. Nunc tellus dolor, suscipit eget finibus vitae, posuere elementum massa.
+<br/><br/>
+Sed id elit ut nisi euismod tempor. Donec laoreet dui mi. Vivamus ornare ornare mi, at rutrum dolor hendrerit sed. Phasellus euismod dapibus magna ut porttitor. Morbi bibendum metus justo. In quis tortor nec erat faucibus fermentum. Etiam faucibus mollis nulla eget luctus. Suspendisse varius porttitor nisl sit amet feugiat. Vivamus eget commodo sapien, ac fermentum metus. Donec vel scelerisque lacus. Aliquam erat volutpat. Integer tincidunt, arcu ut sagittis posuere, nulla nisl dictum nibh, at malesuada nisl ante a odio. Praesent lacinia, tellus a laoreet scelerisque, ipsum lectus egestas nulla, tincidunt auctor ligula ante at leo. Fusce metus nisi, egestas quis enim in, congue sagittis nulla.
+<br/><br/>
+Suspendisse nec velit in ligula feugiat viverra ac quis arcu. Nullam et lorem nisl. Sed neque sem, dictum a sagittis sed, blandit nec neque. Nunc dictum fermentum eros quis aliquam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas gravida rhoncus risus non faucibus. Donec nec orci ut sapien blandit fermentum vitae ut metus. Vivamus at elit nec nulla fermentum dapibus posuere ut diam. Nulla facilisi.
+<br/><br/>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu arcu id leo ornare congue eu vitae sem. Suspendisse tincidunt viverra justo, at auctor nulla semper facilisis. Vestibulum ultrices, mi eget maximus porta, tellus dolor venenatis ex, egestas maximus libero urna vel quam. Proin vel libero sed lorem condimentum vestibulum. Ut finibus lobortis porttitor. Aenean dictum urna vitae velit porta, nec viverra nulla commodo. Morbi eget est a dolor consequat gravida. Aliquam pulvinar orci et nisl auctor, at feugiat lorem mollis. Etiam pharetra nec dui ut hendrerit. Praesent sagittis eu mi nec scelerisque. Aliquam tristique neque odio, non vehicula enim suscipit et.
+<br/><br/>
+Quisque enim nunc, aliquet sed tellus ac, posuere feugiat neque. Nullam at leo eu lectus semper convallis. Vivamus et porta nibh. Morbi eu tincidunt quam. Donec nec commodo lacus. Nunc sed congue enim. Fusce eget justo massa. Mauris commodo, ante a elementum rhoncus, lacus ipsum luctus magna, vel auctor tortor lacus quis nunc. Donec luctus blandit diam et dignissim. Sed lacus nulla, finibus in vulputate sit amet, fringilla id metus. Vivamus dignissim rhoncus purus dictum malesuada. In sed metus non orci tincidunt imperdiet in hendrerit orci. Etiam imperdiet lacus a diam ullamcorper, at facilisis lectus maximus. Integer tristique quis nibh non iaculis.
+<br/><br/>
+Suspendisse mollis augue eu lacus ornare, nec congue lorem dapibus. Aenean nec nisl neque. Ut ornare viverra varius. Nam non vulputate dolor. Nam rutrum tortor ex, non finibus quam lacinia quis. Integer sit amet metus fermentum, porta velit sit amet, interdum ante. Nullam fermentum mi vitae felis volutpat, et congue est egestas. Ut cursus risus hendrerit mattis luctus. Nunc tellus dolor, suscipit eget finibus vitae, posuere elementum massa.
+<br/><br/>
+Sed id elit ut nisi euismod tempor. Donec laoreet dui mi. Vivamus ornare ornare mi, at rutrum dolor hendrerit sed. Phasellus euismod dapibus magna ut porttitor. Morbi bibendum metus justo. In quis tortor nec erat faucibus fermentum. Etiam faucibus mollis nulla eget luctus. Suspendisse varius porttitor nisl sit amet feugiat. Vivamus eget commodo sapien, ac fermentum metus. Donec vel scelerisque lacus. Aliquam erat volutpat. Integer tincidunt, arcu ut sagittis posuere, nulla nisl dictum nibh, at malesuada nisl ante a odio. Praesent lacinia, tellus a laoreet scelerisque, ipsum lectus egestas nulla, tincidunt auctor ligula ante at leo. Fusce metus nisi, egestas quis enim in, congue sagittis nulla.
+<br/><br/>
+Suspendisse nec velit in ligula feugiat viverra ac quis arcu. Nullam et lorem nisl. Sed neque sem, dictum a sagittis sed, blandit nec neque. Nunc dictum fermentum eros quis aliquam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas gravida rhoncus risus non faucibus. Donec nec orci ut sapien blandit fermentum vitae ut metus. Vivamus at elit nec nulla fermentum dapibus posuere ut diam. Nulla facilisi.
+<br/><br/>
+</div>
+ <style type='text/css'>
+ .loremipsumcontainer{
+	width: 50%;
+    margin: 40px;
+}
+    .embeddedServiceHelpButton .helpButton .uiButton {
+        background-color: #005290;
+        font-family: "Arial", sans-serif;
+		display: none;
+    }
+    .embeddedServiceHelpButton .helpButton .uiButton:focus {
+        outline: 1px solid #005290;
+    }
+	
+	.icon-bar {
+  position: fixed;
+  top: 30%;
+  right: 0;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+</style>
+
+<style type='text/css'>
+	.embeddedServiceHelpButton .helpButton .uiButton {
+		background-color: #005290;
+		font-family: "Arial", sans-serif;
+	}
+	.embeddedServiceHelpButton .helpButton .uiButton:focus {
+		outline: 1px solid #005290;
+	}
+	.chasitor.chat-content {
+		background: black !important; 
+	}
+</style>
+
+<style type='text/css'>
+	.embeddedServiceHelpButton .helpButton .uiButton {
+		background-color: #005290;
+		font-family: "Arial", sans-serif;
+	}
+	.embeddedServiceHelpButton .helpButton .uiButton:focus {
+		outline: 1px solid #005290;
+	}
+</style>
+
+<script type='text/javascript' src='https://service.force.com/embeddedservice/5.0/esw.min.js'></script>
+<script type='text/javascript'>
+	var initESW = function(gslbBaseURL) {
+		embedded_svc.settings.displayHelpButton = true; //Or false
+		embedded_svc.settings.language = ''; //For example, enter 'en' or 'en-US'
+
+		//embedded_svc.settings.defaultMinimizedText = '...'; //(Defaults to Chat with an Expert)
+		//embedded_svc.settings.disabledMinimizedText = '...'; //(Defaults to Agent Offline)
+
+		//embedded_svc.settings.loadingText = ''; //(Defaults to Loading)
+		//embedded_svc.settings.storageDomain = 'yourdomain.com'; //(Sets the domain for your deployment so that visitors can navigate subdomains during a chat session)
+
+		// Settings for Chat
+		//embedded_svc.settings.directToButtonRouting = function(prechatFormData) {
+			// Dynamically changes the button ID based on what the visitor enters in the pre-chat form.
+			// Returns a valid button ID.
+		//};
+		//embedded_svc.settings.prepopulatedPrechatFields = {}; //Sets the auto-population of pre-chat form fields
+		//embedded_svc.settings.fallbackRouting = []; //An array of button IDs, user IDs, or userId_buttonId
+		//embedded_svc.settings.offlineSupportMinimizedText = '...'; //(Defaults to Contact Us)
+
+		embedded_svc.settings.enabledFeatures = ['LiveAgent'];
+		embedded_svc.settings.entryFeature = 'LiveAgent';
+
+		embedded_svc.init(
+			'https://gaincapital--ppe.my.salesforce.com',
+			'https://ppe-forex.cs24.force.com/G2NMI',
+			gslbBaseURL,
+			'00D190000001Xxn',
+			'Chat',
+			{
+				baseLiveAgentContentURL: 'https://c.la1-c1cs-ph2.salesforceliveagent.com/content',
+				deploymentId: '5721900000001AT',
+				buttonId: '5731900000001CK',
+				baseLiveAgentURL: 'https://d.la1-c1cs-ph2.salesforceliveagent.com/chat',
+				eswLiveAgentDevName: 'Chat',
+				isOfflineSupportEnabled: false
+			}
+		);
+	};
+
+	if (!window.embedded_svc) {
+		var s = document.createElement('script');
+		s.setAttribute('src', 'https://gaincapital--ppe.my.salesforce.com/embeddedservice/5.0/esw.min.js');
+		s.onload = function() {
+			initESW(null);
+		};
+		document.body.appendChild(s);
+
+	} else {
+		initESW('https://service.force.com');
+	}
+	
+	window.addEventListener("load", function(e) {
+			setTimeout(function(){
+				const queryString = window.location.search; 
+				const urlParams = new URLSearchParams(queryString); 
+				const openChat = urlParams.get('openChat'); 
+				if(openChat == 'true') {
+					var elementsArray = document.getElementsByClassName('helpButtonEnabled'); 
+					var button = elementsArray.item(0);				
+					button.click();
+				}
+			}, 2000);
+        })
+</script>
+ <script>
+        
+    </script>
+</body>
